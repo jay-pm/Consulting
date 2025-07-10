@@ -5,5 +5,5 @@
 The 3 Cs of digital transformation: 
 - curiosity (the best question you can ask is "Why?")
 - creativity (Everyone has a seat at the digital transformation table, wear your creative hat)
-- critical thinking. (utilize your curiosity to ask questions and then critically think on things. Don’t just take things at face value. Ask questions and dig in)
+- critical thinking. (utilize your curiosity to ask questions and then critically think on things. Don’t just take things at face value. Ask questions and dig in) 
 The individual doesn’t have to become technical or do something great. They start with these 3 Cs to be empowered. 
