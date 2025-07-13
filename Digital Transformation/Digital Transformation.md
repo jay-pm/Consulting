@@ -8,3 +8,14 @@
 - critical thinking. (utilize your curiosity to ask questions and then critically think on things. Don’t just take things at face value. Ask questions and dig in)  
 
 The individual doesn’t have to become technical or do something great. They start with these 3 Cs to be empowered.
+
+---
+Critical components of digital transformation: the triad of data, people, and processes. This triad forms the foundation of effective digital transformation strategies, emphasizing the importance of integrating these elements rather than considering them in isolation.
+
+Data: In a data-driven world, digital transformation relies heavily on data to create insights, improve customer experiences, and enable organizational intelligence. This approach is essential for making informed decisions and enhancing operational efficiency.
+
+People: People are at the core of any organization, and their buy-in is crucial for driving digital transformation. Changing an organization's culture is challenging, but evolving it through digital transformation can be a powerful strategy to ensure everyone is on board with new initiatives.
+
+Processes: Digital transformation should integrate into existing processes, improving them rather than replacing them entirely. This approach ensures that transformation efforts are sustainable and aligned with the organization's culture and goals.
+
+---
