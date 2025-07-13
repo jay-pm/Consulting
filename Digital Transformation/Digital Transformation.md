@@ -11,8 +11,8 @@
 The individual doesn’t have to become technical or do something great. They start with these 3 Cs to be empowered.
 
 ---
-
-**Critical components of digital transformation**: the triad of data, people, and processes. This triad forms the foundation of effective digital transformation strategies, emphasizing the importance of integrating these elements rather than considering them in isolation.
+**data, people, and processes**  
+Critical components of digital transformation: The triad of data, people, and processes. This triad forms the foundation of effective digital transformation strategies, emphasizing the importance of integrating these elements rather than considering them in isolation.
 
 Data: In a data-driven world, digital transformation relies heavily on data to create insights, improve customer experiences, and enable organizational intelligence. This approach is essential for making informed decisions and enhancing operational efficiency.
 
@@ -32,7 +32,7 @@ This skill empowers individuals to contribute effectively to their organization'
 **Digital fluency** ensures that employees can effectively utilize digital tools, fostering better communication, collaboration, and innovation across the organization.
 
 ---
-**Obstacles and challenges**
+**Obstacles and challenges**  
 Here are some challenges and obstacles you may face: Culture, Siloed Work, Legacy Systems, Digital Skills Gap, Poor Investment.
 - Culture : Culture change is difficult. Culture is the people and people should be a focus
 - Siloed work: Results in disconnected decision making, lack of unified vision, impedes innovation with in an organization
